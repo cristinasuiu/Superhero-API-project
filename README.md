@@ -5,7 +5,7 @@ ESP32 Bluetooth & WiFi Controller
 
 Features
 
-  -Scan WiFi Networks: Discover available networks and send results via Bluetooth.
+  -Scan WiFi Networks: Discover available networks and send results via Bluetooth. 
   -Connect to WiFi: Connect the ESP32 to a specified WiFi network.
   -Fetch Superhero Data: Retrieve a list of superheroes from an API.
   -Get Superhero Details: Fetch detailed information about a specific superhero.
